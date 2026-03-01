@@ -1,4 +1,4 @@
-NumOfDigits. C++ Tutorials. Microsoft Visual Studio IDE. Win32 Platform. Simple Input/Output. Algorithms. Console application. 
+NumOfDigits. C++ Tutorials. Microsoft Visual Studio IDE. Windows Platform. Simple Input/Output. Algorithms. Console application. 
 
 A console application project written in the C++ programming language and implemented in the Microsoft Visual Studio integrated environment. The Win32 Console system provides simple input/output. Determining the number of digits in a number entered from the keyboard.
 
@@ -12,3 +12,7 @@ a positive value equal in magnitude to the number entered from the keyboard.
   b) The temporary variable is divisible by 10.
   c) The digit counter variable is incremented by one.
 5. The entered number and the number of its digits are displayed on the screen.
+
+
+NumOfDigits. ИС Visual Studio. Занятия по C++. Простой Ввод/Вывод. Алгоритмы. Платформа Windows. Консольное приложение.
+
